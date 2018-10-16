@@ -1,5 +1,5 @@
 body {
-    background-color: palegreen;
+    background-color: lightseagreen;
 }
 
 #box1 {
@@ -21,4 +21,9 @@ body {
 .box {
     height: 50px;
     width: 50px;
+    border: black 1px solid;
+    margin-top: 25px;
+    padding-left: 7px;
+    padding-right: 7px;
+
 }
