@@ -18,3 +18,7 @@ body {
     background-color: teal;
 }
 
+.box {
+    height: 50px;
+    width: 50px;
+}
